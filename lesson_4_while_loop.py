@@ -45,3 +45,7 @@ while(int_var < print_amount):
 
 # Note that if the boolean in the while loop is never false
 # The code will never stop running
+
+# ----- Practice -----
+# Create a while loop that will count down from 5
+# Print every int during the loop
