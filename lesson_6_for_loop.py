@@ -45,4 +45,4 @@ for item in range(0, 7, 2):
 
 # --- Practice ----
 # Create a for loop that will only print out multiples of 7, e.g. 0, 7, 14
-# Make the loop go to 70 variables
+# Make the loop start at 70 and go to 0
