@@ -37,7 +37,15 @@ print(len(string_list))
 print(len(list()))
 # 0
 
+# You can add to a list by using the function append
+# These additions will always be the last index
+int_list = [1,2,3,4]
+int_list.append(5)
+print(int_list)
+string_list.append('This String is added to the END')
+
 # ----- Practice -----
+# add two more values to the variable string_list
 # using string_list, use a while loop to print each item in the list one at a time
 # make sure to stop the while loop to not access an index that doesn't exist
 string_list = ['first', 'second', 'third', 'fourth']
