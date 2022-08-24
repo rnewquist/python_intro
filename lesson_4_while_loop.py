@@ -1,6 +1,7 @@
 # Loops are while you want to run code repeatedly
-# For instance if I want to print "Hi" 5 times
+# For instance if I want to print "Hi" 6 times
 # The code will be:
+print("Hi")
 print("Hi")
 print("Hi")
 print("Hi")
